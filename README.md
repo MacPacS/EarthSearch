@@ -19,7 +19,7 @@ Then save the py and put a url in, if a error happen its meaning that it cant sc
 
 This error is going to V 5.12 or V 7.19 (Not Releases yet.)
 
-Now enyoy and scap you websites!
+Now enyoy and scrap your websites!
 
 DO NOT STEAL CODE OR SEVRERS FROM A SITE PLS DO THIS TO TEST AND HOW TO LEARN CODE!!!
 
