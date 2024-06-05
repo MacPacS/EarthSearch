@@ -5,6 +5,14 @@ i make a simple python script that saves data from a website or scarp websites.
 
 This mean that i can take: "Html files,Css files,PHP Files,JS Files!"
 
+----------info------------
+If u download the Releases then unzip the file and the pass is: 2024
+
+Also in the Releases you can get other versions without any credit that made by me,
+
+thats only use for testing and learning code!
+
+
 -----------Download-----------
 
 So how to install it? yea its pretty easy tho :)
