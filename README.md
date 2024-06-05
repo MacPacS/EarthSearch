@@ -22,3 +22,5 @@ This error is going to V 5.12 or V 7.19 (Not Releases yet.)
 Now enyoy and scap you websites!
 
 DO NOT STEAL CODE OR SEVRERS FROM A SITE PLS DO THIS TO TEST AND HOW TO LEARN CODE!!!
+
+![preview](https://github.com/MacPacS/EarthSearch/assets/169534490/c1e73c8c-aed5-497f-a10e-6475ec256284)
